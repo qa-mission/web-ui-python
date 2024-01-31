@@ -1,0 +1,13 @@
+# Ignore generated files and folders
+__init__.py
+*.egg-info/
+dist/
+build/
+*.egg
+*.log
+**/__pycache__
+.idea/
+
+# Ignore local configuration files
+config.json
+secrets.yaml
