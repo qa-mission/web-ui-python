@@ -1,6 +1,6 @@
 import os
 import sys
-from utils.IniFilesReader import IniFilesReader
+from utils.ini_files_reader import IniFilesReader
 
 
 class Config:
